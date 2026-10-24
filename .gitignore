@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+# Staging mirrors and their manifests — large, regenerable, not source.
+output-*/
+AppleDocs/
+.manifest.sqlite
+*.sqlite
+
+.DS_Store
